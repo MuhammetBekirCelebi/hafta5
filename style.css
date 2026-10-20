@@ -1,0 +1,28 @@
+   h1{
+        font-size:30px;
+    }
+    #a{
+background-color: green;
+    margin: 40px;
+    padding: 6px;
+    width: 60px;
+    border-style: dotted;
+    border-color: yellow;
+
+    }
+    #b{
+    background-color: blue;
+    margin: 40px;
+    padding: 5px;
+    width: 600px;
+    height: 300px;
+    border-top: dashed;
+    border-bottom:groove ;
+    border-left:dotted;
+    border-right:solid;
+    border-color: green;
+    border-width: 5px;
+    outline-style:double;
+    outline-color: pink;
+
+    }
